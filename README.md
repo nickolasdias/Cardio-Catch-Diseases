@@ -165,20 +165,34 @@ In this project, we developed a model that classifies people with cardiovascular
 
 - The concentration of people with glucose above normal in relation to weight is greater than the concentration of people with glucose well above normal and people with normal cholesterol.
 
+### 3.1.2 Mental Hypothesis Map
+
+![hip](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/Cardiovascular_Diaseases.png)
 
 
+### 3.1.3 Exploratory Data Analysis
 
-
-
-
-
-
-
+**Univariate Analysis - Target**
 
 ![03](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/03.png)
 
+**Observation:**
+
+- Number of people with CVDs: 50.65 %
+
+- Number of people without CVDs: 49.35 %
+
+
+**Univariate Analysis - Numerical**
 
 ![04](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/04.png)
+
+**Observations:**
+- The ages are between 38 and 65 years.
+- The highest height concentration is between 1.60 m and 1.70 m.
+- The weight is concentrated between 60 kg and 80 kg.
+- Presents a blood pressure of 120 for diastolic and 80 for sistolic which means elevated to high blood pressure.
+- The highest body mass index is concentrated between 20 and 30.
 
 
 ![05](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/05.png)
