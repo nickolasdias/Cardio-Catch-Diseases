@@ -288,10 +288,26 @@ Looking at the graph above, there are more cases of people with normal than high
 
 ![17](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/17.png)
 
+**Relevants Observations:**
+- `ap_hi` and `ap_lo` present **high positive correlation (0.72)**.
+- `height` and `weight` present **weak positive correlation (0.30)**.
+- `bmi` and `weight` present **high positive correlation (0.86)**.
+
 **Multivariate Analysis - Categorical Variables**
 
 ![18](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/18.png)
 
+**Relevants Observations:**
+
+- `smoke` and `gender` present **weak positive correlation (0.34)**.
+- `cholesterol` and `gluc` present **weak positive correlation (0.39)**.
+- `alco` and `smoke` present **weak positive correlation (0.34)**
+
 **Multivariate Analysis - Numerical Variables and Binary Variables**
 
 ![19](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/19.png)
+
+**Relevants Observations**:
+
+- `height` and `smoke`: **weak positive correlation**.
+-  All the others correlations are nulls.
