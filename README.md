@@ -318,4 +318,24 @@ Tests were made using different algorithms.
 
 #### Performance Metrics
 
+![20](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/20.png)
+
+As observed, for the context of our project, we have:
+
+- On the **business** side, aiming for precision, as each 5% more on precision translates to \$500 more from each diagnostic made.
+
+- On the **patient** side, aiming for recall, as we are trying to minimize the false negative rate.
+
+In addition, we are trying to achieve a balance between accuracy and recall. We can make use of f1-score as a metric that can provide us with this balance. Thus, we have two algorithms that satisfy this need. They are them: **Catboost Classifier and LGBM Classifier**.
+
+Although the **Catboost Classifier** algorithm performs a little better than **LGBM Classifier**, but we will use **LGBM Classifier**.
+
+
+#### Confusion Matrix
+
+![21](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/21.png)
+
+#### ROC Curves
+
+![22](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/22.png)
 
