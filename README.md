@@ -227,33 +227,58 @@ Looking at the graph above, there is no relationship between the appearance of c
 
 ![08](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/08.png)
 
+Looking at the graph above, there are more cases of cardiovascular diseases among people with obesity than people without obesity.
+> Therefore, the hyphotese is **TRUE**.
+
 **H4. There are more cases of cardiovascular diseases among people of the female gender. (TRUE)**
 
 ![09](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/09.png)
+
+Looking at the graph above, there are more cases of cardiovascular diseases among female people than male people.
+> Therefore, a hyphotese is **TRUE**.
 
 **H5. There are more cases of cardiovascular diseases among people who do not do physical activity. (FALSE)**
 
 ![10](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/10.png)
 
+Looking at the graph above, there are more cases of cardiovascular diseases among people who practice physical activity than people who do not practice physical activity.
+> Thus, the hyphotese is **FALSE**.
+
 **H6. There are more cases of cardiovascular diseases among people who intake alcohol. (FALSE)**
 
 ![11](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/11.png)
+
+Looking at the graph above, there are more cases of cardiovascular diseases among people who do not use alcohol than people who use alcohol. 
+> Thus, the hyphotese is **FALSE**.
 
 **H7. There are more cases of cardiovascular diseases for people presenting high cholesterol. (FALSE)**
 
 ![12](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/12.png)
 
+Looking at the picture, there are more cases of cardiovascular disease for people who have normal cholesterol than high cholesterol. 
+> Therefore, the hyphotese is **FALSE**.
+
 **H8. There are more cases of cardiovascular diseases among people who smoking. (FALSE)**
 
 ![13](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/13.png)
+
+Looking at the graph above, there are more cases of cardiovascular diseases in people who do not smoke. 
+> Therefore, the hyphotese is **FALSE**.
 
 **H9. There are more cases of cardiovascular diseases for people presentig high glucose. (FALSE)**
 
 ![14](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/14.png)
 
+Looking at the graph above, there are more cases of cardiovascular diseases in people that have 
+ normal glucose. 
+ > Therefore, the hyphosis is **FALSE**.
+
 **H10. There are more cases of people with elevated blood pressure. (FALSE)**
 
 ![15](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/15.png)
+
+Looking at the graph above, there are more cases of people with normal than high pressure. 
+> Therefore, the hyphotese is **FALSE**.
 
 **Bivariate Analysis - Summary Hyphoteses**
 
