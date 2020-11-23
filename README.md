@@ -183,6 +183,7 @@ In this project, we developed a model that classifies people with cardiovascular
 - Number of people without CVDs: 49.35 %
 
 
+
 **Univariate Analysis - Numerical**
 
 ![04](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/04.png)
@@ -195,8 +196,18 @@ In this project, we developed a model that classifies people with cardiovascular
 - The highest body mass index is concentrated between 20 and 30.
 
 
+**Univariate Analysis - Categorical**
+
 ![05](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/05.png)
 
+**Observations:**
+- There many more people presenting of the **female gender**.
+- There many more people presenting **normal levels** for both `cholesterol` and `glucose`.
+- The great majority of people **don't smoke neither intakes alcohol**.
+- The majority of people **are physically active**.
+
+
+**Bivariate Analysis - Validation of the Hypothesis
 
 ![06](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/06.png)
 
