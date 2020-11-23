@@ -213,9 +213,15 @@ In this project, we developed a model that classifies people with cardiovascular
 
 ![06](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/06.png)
 
+Looking at the graph above, there are more cases of cardiovascular diseases among adults than older people. 
+> Therefore, a hyphotese is **FALSE**.
+
 **H2. There is no relationship between the appearance of cardiovascular diseases and people's hight. (TRUE)**
 
 ![07](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/07.png)
+
+Looking at the graph above, there is no relationship between the appearance of cardiovascular diseases and people's height.
+> Therefore, the hypothesis is **TRUE**.
 
 **H3. There are more cases of cardiovascular diseases among obesity people. (TRUE)**
 
@@ -249,6 +255,12 @@ In this project, we developed a model that classifies people with cardiovascular
 
 ![15](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/15.png)
 
-**Summary Hyphoteses**
+**Bivariate Analysis - Summary Hyphoteses**
 
 ![16](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/16.png)
+
+**Multivariate Analysis - Numerical Variables**
+
+**Multivariate Analysis - Categorical Variables**
+
+**Multivariate Analysis - Numerical Variables and Binary Variables
