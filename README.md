@@ -313,3 +313,9 @@ Looking at the graph above, there are more cases of people with normal than high
 -  All the others correlations are nulls.
 
 ### 3.1.4 Machine Learning
+
+Tests were made using different algorithms.
+
+#### Performance Metrics
+
+
