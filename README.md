@@ -286,6 +286,12 @@ Looking at the graph above, there are more cases of people with normal than high
 
 **Multivariate Analysis - Numerical Variables**
 
+![17](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/17.png)
+
 **Multivariate Analysis - Categorical Variables**
 
-**Multivariate Analysis - Numerical Variables and Binary Variables
+![18](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/18.png)
+
+**Multivariate Analysis - Numerical Variables and Binary Variables**
+
+![19](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/19.png)
