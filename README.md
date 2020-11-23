@@ -339,3 +339,10 @@ Although the **Catboost Classifier** algorithm performs a little better than **L
 
 ![22](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/22.png)
 
+### 3.1.5 Hyperparameter Fine Tuning
+
+
+### 3.1.6 Evalution of the Best Model
+
+
+### 3.1.7 Anwering the Questions
