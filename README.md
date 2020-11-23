@@ -219,19 +219,36 @@ In this project, we developed a model that classifies people with cardiovascular
 
 **H3. There are more cases of cardiovascular diseases among obesity people. (TRUE)**
 
+![08](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/08.png)
+
 **H4. There are more cases of cardiovascular diseases among people of the female gender. (TRUE)**
+
+![09](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/09.png)
 
 **H5. There are more cases of cardiovascular diseases among people who do not do physical activity. (FALSE)**
 
+![10](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/10.png)
+
 **H6. There are more cases of cardiovascular diseases among people who intake alcohol. (FALSE)**
+
+![11](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/11.png)
 
 **H7. There are more cases of cardiovascular diseases for people presenting high cholesterol. (FALSE)**
 
+![12](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/12.png)
+
 **H8. There are more cases of cardiovascular diseases among people who smoking. (FALSE)**
+
+![13](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/13.png)
 
 **H9. There are more cases of cardiovascular diseases for people presentig high glucose. (FALSE)**
 
+![14](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/14.png)
+
 **H10. There are more cases of people with elevated blood pressure. (FALSE)**
 
+![15](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/15.png)
 
 **Summary Hyphoteses**
+
+![16](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/16.png)
