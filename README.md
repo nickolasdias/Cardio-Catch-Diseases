@@ -123,3 +123,66 @@ In this project, we developed a model that classifies people with cardiovascular
 ## 3.1 Main Steps
 
 ### 3.1.1 Data Describe - Statistics Descriptive
+
+#### Numerical Variables
+
+![01](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/01.png)
+
+**Important Observations:**
+
+- People are between 30 and 65 years old, with an average of 53 years and a median of 54 years. By the proximity of the position measurements, this variable approaches a **normal distribution**.
+
+- People are between 55 cm and 250 cm high, with an average of 164 cm. However, the minimum height is suspect, as there are no records of children. 
+
+- People weigh between 10 kg and 200 kg, with an average of 74 kg. However, the minimum weight is suspect, since there are no records of children.
+
+- The measurement of -150 and 11.000 **diastolic pressure** is suspect, since it is out of reality.
+
+- The measure of -70 and 16.070 of **systolic pressure** is suspect, since it is out of reality.
+
+
+#### Categorical Variables
+
+![02](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/02.png)
+
+**Observations:**
+
+- The age range of people with cardiovascular disease is 38 to 65 years, with a median over 55 years. And the age range of people without cardiovascular disease is 30 to 65 years old, with a median under 55 years old.
+
+- The height range of people with cardiovascular disease is practically the same as the height range of people without cardiovascular disease. There are also significant outliers that are below the minimum height of both. 
+
+- The weight range of people with cardiovascular disease is greater than the weight range of people without cardiovascular disease, no matter the difference is minimal with the presence of outliers.
+
+- The age range of people with normal, above normal and well above normal cholesterol are similar. However, the age range of 52 to 60 years old is more concentrated for people with cholesterol well above normal. The concentration of people with normal cholesterol is between 48 and 58 years. And the concentration of people with above-normal cholesterol is between 50 and 57 years old. 
+
+- The concentration of height ranges for people with any level of cholesterol is practically the same. However, there are many outliers in the height range of people who have normal cholesterol. These heights include being below 150 cm.
+
+- The concentration of people with cholesterol well above normal in relation to weight is greater than the concentration of people with higher than normal cholesterol and people with normal cholesterol.
+
+- The age range people with normal glucose, above normal and well above normal are similar. However, the age range from 50 to 60 years old, people with glucose above normal are more concentrated. The concentration of people with glucose well above the normal is between 52 and 60 years. And the concentration of people with normal glucose is between 48 and 58 years.
+
+- The concentration of the height ranges of people with any glucose level is practically the same. However, there are many outliers in the height range of people who have normal glucose. These heights include being below 150 cm.
+
+- The concentration of people with glucose above normal in relation to weight is greater than the concentration of people with glucose well above normal and people with normal cholesterol.
+
+
+
+
+
+
+
+
+
+
+
+![03](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/03.png)
+
+
+![04](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/04.png)
+
+
+![05](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/05.png)
+
+
+![06](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/06.png)
+
