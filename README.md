@@ -311,3 +311,5 @@ Looking at the graph above, there are more cases of people with normal than high
 
 - `height` and `smoke`: **weak positive correlation**.
 -  All the others correlations are nulls.
+
+### 3.1.4 Machine Learning
