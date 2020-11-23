@@ -207,7 +207,31 @@ In this project, we developed a model that classifies people with cardiovascular
 - The majority of people **are physically active**.
 
 
-**Bivariate Analysis - Validation of the Hypothesis
+**Bivariate Analysis - Validation of the Hypothesis**
+
+**H1. There are more cases of cardiovascular diseases among older people. (FALSE)**
 
 ![06](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/06.png)
 
+**H2. There is no relationship between the appearance of cardiovascular diseases and people's hight. (TRUE)**
+
+![07](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/07.png)
+
+**H3. There are more cases of cardiovascular diseases among obesity people. (TRUE)**
+
+**H4. There are more cases of cardiovascular diseases among people of the female gender. (TRUE)**
+
+**H5. There are more cases of cardiovascular diseases among people who do not do physical activity. (FALSE)**
+
+**H6. There are more cases of cardiovascular diseases among people who intake alcohol. (FALSE)**
+
+**H7. There are more cases of cardiovascular diseases for people presenting high cholesterol. (FALSE)**
+
+**H8. There are more cases of cardiovascular diseases among people who smoking. (FALSE)**
+
+**H9. There are more cases of cardiovascular diseases for people presentig high glucose. (FALSE)**
+
+**H10. There are more cases of people with elevated blood pressure. (FALSE)**
+
+
+**Summary Hyphoteses**
