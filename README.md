@@ -401,3 +401,4 @@ This means that having a portfolio of 70.000 patients that would go through the 
 
 #### How reliable is the data result of the new tool ?
 
+![28](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/28.png)
