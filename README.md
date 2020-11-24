@@ -345,6 +345,8 @@ Analyzing the ROC curves above, the **LGBM** and **Catboost** models are close, 
 
 ### 3.1.5 Hyperparameter Fine Tuning
 
+In this section, we will find the set of parameters that optimize the Machine Learning model. For that, we will apply **Random Search** for the chosen model. 
+
 #### Roc Curve
 
 ![23](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/23.png)
