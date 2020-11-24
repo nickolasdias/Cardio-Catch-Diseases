@@ -341,6 +341,13 @@ Although the **Catboost Classifier** algorithm performs a little better than **L
 
 ### 3.1.5 Hyperparameter Fine Tuning
 
+#### Roc Curve
+
+![23](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/23.png)
+
+#### Confusion Matrix
+
+![24](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/24.png)
 
 ### 3.1.6 Evalution of the Best Model
 
