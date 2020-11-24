@@ -345,7 +345,11 @@ Analyzing the ROC curves above, the **LGBM** and **Catboost** models are close, 
 
 ### 3.1.5 Hyperparameter Fine Tuning
 
-In this section, we will find the set of parameters that optimize the Machine Learning model. For that, we will apply **Random Search** for the chosen model. 
+In machine learning, hyperparameter optimization or tuning is the problem of choosing a set of optimal hyperparameters for a learning algorithm. A hyperparameter is a parameter whose value is used to control the learning process. By contrast, the values of other parameters (typically node weights) are learned.
+
+Therefore, we will use the RandomSearchCV algorithm beacuse, the method described herein is a type of local random search, where every iteration is dependent on the prior iteration's candidate solution. So, we will spend less time to obtain the result.
+
+In our best algorithm, we apply the technique to find the best parameters. Below, we can see its performance with the chosen parameters. 
 
 #### Roc Curve
 
