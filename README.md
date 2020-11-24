@@ -351,6 +351,13 @@ Although the **Catboost Classifier** algorithm performs a little better than **L
 
 ### 3.1.6 Evalution of the Best Model
 
+#### Calibration Curves
+
+#### Calibration Model Metrics
+
+#### Calibration Model - ROC Curve and Confusion Matrix
+
+#### Calibration Model - Cross Validation Score
 
 ### 3.1.7 Anwering the Questions
 
