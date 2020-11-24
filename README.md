@@ -343,6 +343,14 @@ We can observe through the confusion matrices that models such as **Catboost** a
 
 Analyzing the ROC curves above, the **LGBM** and **Catboost** models are close, but with different confusion matrices. Therefore, as mentioned before, we will choose the **LGBM** model to work.
 
+#### Cross-Validation Scoring - LGBM Classifier
+
+- Average precision: 0.7637 (+/- 0.0137)
+- Average recall: 0.6963 (+/- 0.0258)
+- Average f1-score: 0.7284 (+/- 0.0162)
+- Average ROC AUC: 0.8079 (+/- 0.0148)
+
+
 ### 3.1.5 Hyperparameter Fine Tuning
 
 In machine learning, hyperparameter optimization or tuning is the problem of choosing a set of optimal hyperparameters for a learning algorithm. A hyperparameter is a parameter whose value is used to control the learning process. By contrast, the values of other parameters (typically node weights) are learned.
@@ -360,6 +368,13 @@ In our best algorithm, we apply the technique to find the best parameters. Below
 #### Confusion Matrix
 
 ![24](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/24.png)
+
+#### Cross Validation Score
+
+- Average precision: 0.7630 (+/- 0.0166)
+- Average recall: 0.6986 (+/- 0.0239)
+- Average f1-score: 0.7293 (+/- 0.0167)
+- Average ROC AUC: 0.8073 (+/- 0.0145)
 
 ### 3.1.6 Evalution of the Best Model
 
@@ -383,6 +398,12 @@ By calibrating the metrics of the model, we can see that there is no increase in
 
 ![27](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/27.png)
 
+#### Calibrating Model - Cross Validation Score
+
+- Average precision: 0.7652 (+/- 0.0159)
+- Average recall: 0.6948 (+/- 0.0255)
+- Average f1-score: 0.7282 (+/- 0.0181)
+- Average ROC AUC: 0.8079 (+/- 0.0145)
 
 ### 3.1.7 Anwering the Questions
 
