@@ -373,6 +373,7 @@ We can see that the calibrated model fits better to the tuned model.
 
 #### Calibrating Model Metrics
 
+![30](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/30.png)
 
 
 #### Calibrating Model - ROC Curve and Confusion Matrix
