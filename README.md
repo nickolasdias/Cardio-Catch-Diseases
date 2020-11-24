@@ -351,13 +351,19 @@ Although the **Catboost Classifier** algorithm performs a little better than **L
 
 ### 3.1.6 Evalution of the Best Model
 
-#### Calibration Curves
+#### Calibrating Curves
 
-#### Calibration Model Metrics
+![25](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/25.png)
 
-#### Calibration Model - ROC Curve and Confusion Matrix
+#### Calibrating Model Metrics
 
-#### Calibration Model - Cross Validation Score
+![26](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/26.png)
+
+#### Calibrating Model - ROC Curve and Confusion Matrix
+
+![27](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/27.png)
+
+#### Calibrating Model - Cross Validation Score
 
 ### 3.1.7 Anwering the Questions
 
