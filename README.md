@@ -375,6 +375,7 @@ We can see that the calibrated model fits better to the tuned model.
 
 ![30](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/30.png)
 
+By calibrating the metrics of the model, we can see that there is no increase in its performance.
 
 #### Calibrating Model - ROC Curve and Confusion Matrix
 
@@ -382,7 +383,6 @@ We can see that the calibrated model fits better to the tuned model.
 
 ![27](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/27.png)
 
-#### Calibrating Model - Cross Validation Score
 
 ### 3.1.7 Anwering the Questions
 
