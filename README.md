@@ -351,6 +351,8 @@ Therefore, we will use the RandomSearchCV algorithm beacuse, the method describe
 
 In our best algorithm, we apply the technique to find the best parameters. Below, we can see its performance with the chosen parameters. 
 
+![29](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/29.png)
+
 #### Roc Curve
 
 ![23](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/23.png)
