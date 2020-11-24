@@ -363,15 +363,21 @@ In our best algorithm, we apply the technique to find the best parameters. Below
 
 ### 3.1.6 Evalution of the Best Model
 
+To evaluate of the best model, we will calibrate the curves and metrics of the model. And finally, we will do the cross validation.
+
 #### Calibrating Curves
 
 ![25](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/25.png)
 
+We can see that the calibrated model fits better to the tuned model.
+
 #### Calibrating Model Metrics
 
-![26](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/26.png)
+
 
 #### Calibrating Model - ROC Curve and Confusion Matrix
+
+![26](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/26.png)
 
 ![27](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/27.png)
 
