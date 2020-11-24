@@ -443,8 +443,24 @@ This means that having a portfolio of 70.000 patients that would go through the 
 
 ![28](https://github.com/nickolasdias/Cardio-Catch-Diseases/blob/master/image/28.png)
 
-## 4.0 Next Steps
+## References
 
-#### 4.1 Improving Model Performance
+### Context
 
-# References
+- https://www.healthline.com/health/high-cholesterol/levels-by-age#adults
+
+- https://www.paho.org/bra/index.php?option=com_content&view=article&id=5253:doencas-cardiovasculares&Itemid=1096
+
+- https://hilab.com.br/blog/principais-doencas-cardiovasculares/
+
+### Business Problem
+
+- https://sejaumdatascientist.com/projeto-de-data-science-diagnostico-precoce-de-doencas-cardiovasculares/
+
+### Suplementary Materials
+
+- https://machinelearningmastery.com/calibrated-classification-model-in-scikit-learn/
+
+- https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/
+
+- https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
