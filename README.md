@@ -346,3 +346,38 @@ Although the **Catboost Classifier** algorithm performs a little better than **L
 
 
 ### 3.1.7 Anwering the Questions
+
+#### What is the accuracy and precision of the tool ?
+
+
+| Model | Average Precision  | Average Recall | Average F1-Score | Average ROC AUC |
+|:---------------|:---------------------|:---------------------------------------|:----------------|:---------------|
+| LGBM Classifier | 0.7637 (+/- 0.0137) | 0.6963 (+/- 0.0258) | 0.7284 (+/- 0.0162) | 0.8079 (+/- 0.0148) |
+| LGBM Classifier Best Model | 0.7630 (+/- 0.0166)  | 0.6986 (+/- 0.0239) | 0.7293 (+/- 0.0167) | 0.8073 (+/- 0.0145) |
+| LGBM Classifier Calibration | 0.7652 (+/- 0.0159)| 0.6948 (+/- 0.0255) | 0.7282 (+/- 0.0181) | 0.8079 (+/- 0.0145) |
+
+Analyzing the summary of the model, we can verify that **LGBM Classifier Calibration** model has a better **precision** than the other models, although the **f1-score** and **recall** have a score lower. In addition, for being calibrated, the model will be more stable and confident. This is good for both business and patients.
+
+> Therefore, the **precision** is of 76.52%.
+
+#### What will be the company's revenue with new toll ?
+
+The price of the diagnosis, paid by the client, varies according to the precision achieved by the team of specialists.
+
+| Exam Accuracy | Price  | Rules                                  | Example          |
+|:---------------|:---------------------|:---------------------------------------|:----------------|
+| Above 50%     | min \$500\.00          | \+\$500 for each additional 5% accuracy | Accuracy = 55% \-> \$1,000\.00 |
+| Up to 50%     | $0\.00                | N/A                                    | N/A               |
+
+
+Our full original data set contains the records of 70.000 patients. Suppose we were to make them go through the clinic procedure to check if they have a cardiovascular disease, our model have reached an accuracy of `0.7652 (+/- 0.0159)` [74.93% , 78.11%] which is higher than the 55% to 65% that we have on today's procedures. Thus, translating it to business numbers.
+
+|| Worst Scenario | Best Scenario |
+|---|--------------------------------------|-------------------------------------|
+|Today | \$35.000.000                         | \$105.000.000                      |
+|Our model | \$174.476.786                         | \$196.768.971                      |
+
+This means that having a portfolio of 70.000 patients that would go through the clinical procedure to check whether they have or not a cardiovascular disease, in the worst business scenario the portfolio would generate a profit of **\\$174.476.786 million** and in the best scenario **\$196.768.971 million**, in contrast to today's procedure that has an accuracy of 65% and would generate a total of \\$105 million, that's a difference of \\$91.768.971 million!
+
+#### How reliable is the data result of the new tool ?
+
