@@ -118,7 +118,7 @@ This work will be using the data set is available in this [link](https://www.kag
 
 # 3.0 The Solution 
 
-In this project, we have developed a classification model that specifies bank transactions as fraudulent or not. This solution can be implemented at Blocker Fraud Company to help solve your business problem.
+In this project, we developed a model that classifies people with cardiovascular diseases or not. This solution can be implemented in the company Cardio Catch Diseases to help solve your business problem. The model has an precision between 74.93% and 78.11%.
 
 ## 3.1 Main Steps
 
